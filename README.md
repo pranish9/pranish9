@@ -2,28 +2,27 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yugesh-shilakar" alt="yugesh-shilakar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranish-raj-tuladhar" alt="pranish-raj-tuladhar" /> </p>
 <h1> HELLO FELLOW PROGRAMMERS </h1>
-</br><h3>👋 I'm Yugesh Shilakar </h3>
+</br><h3>👋 I'm Pranish Raj Tuladhar </h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## I'm a Student, Artist and a mentor.
+## I'm a Student, Singer/Song writer,.
 
 - 🌱 I’m currently learning everything 😂
-- 🥅 2022 Goals: Learn more about blockchain.
-- ⚡ Fun fact: I love to draw and play guitar.
+- 🥅 2023 Goals: Learn more about flutter.
+- ⚡ Fun fact: I love to sing and play guitar.
 ---
 
 ### Connect with me:
 
-<a href="https://www.facebook.com/yugesh.shilakar" target="blank"><img align="center" src="https://img.icons8.com/color/344/facebook-new.png" alt="yugesh shilakar" height="60" width="60" /></a>
-<a href="https://www.instagram.com/yugesh_shilakar/" target="blank"><img align="center" src="https://img.icons8.com/color/344/instagram-new--v1.png" alt="yugesh shilakar" height="60" width="60" /></a>
-<a href="https://www.linkedin.com/in/yugesh-shilakar-7b89b0237/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="yugesh shilakar" height="60" width="60" /></a>
-<a href="https://www.twitter.com/YugeshShilakar/" target="blank"><img align="center" src="https://img.icons8.com/color/344/twitter.png" alt="yugesh shilakar" height="60" width="60" /></a>
-<a href="https://www.reddit.com/user/yugesh-shilakar" target="blank"><img align="center" src="https://img.icons8.com/color/344/reddit.png" alt="yugesh shilakar" height="60" width="60" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009219329451" target="blank"><img align="center" src="https://img.icons8.com/color/344/facebook-new.png" alt="yugesh shilakar" height="60" width="60" /></a>
+<a href="https://www.instagram.com/pranish_raj_tuladhar/" target="blank"><img align="center" src="https://img.icons8.com/color/344/instagram-new--v1.png" alt="pranish tuladhar" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/pranish-raj-tuladhar-67aa38217/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="pranish tuladhar" height="60" width="60" /></a>
+<a href="https://twitter.com/home" target="blank"><img align="center" src="https://img.icons8.com/color/344/twitter.png" alt="pranish tuladhar" height="60" width="60" /></a>
 ---
 ### Languages and Tools:
 
@@ -47,9 +46,9 @@
 \
 \
 \
-![Anurag's github stats](https://github-readme-stats.spielers.vercel.app/api?username=yugesh-shilakar&show_icons=true&theme=chartreuse-dark)
+![Anurag's github stats](https://github-readme-stats.spielers.vercel.app/api?username=pranish9&show_icons=true&theme=chartreuse-dark)
 \
-[![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=yugesh-shilakar&layout=compact&theme=chartreuse-dark)](https://github.com/yugesh-shilakar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=pranish9&layout=compact&theme=chartreuse-dark)](https://github.com/yugesh-shilakar/github-readme-stats)
 \
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yugesh-shilakar&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranish9&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
