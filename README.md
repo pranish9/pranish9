@@ -48,7 +48,7 @@
 \
 ![Anurag's github stats](https://github-readme-stats.spielers.vercel.app/api?username=pranish9&show_icons=true&theme=chartreuse-dark)
 \
-[![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=pranish9&layout=compact&theme=chartreuse-dark)](https://github.com/yugesh-shilakar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=pranish9&layout=compact&theme=chartreuse-dark)](https://github.com/pranish9/github-readme-stats)
 \
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranish9&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
