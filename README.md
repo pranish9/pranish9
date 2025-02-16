@@ -53,7 +53,7 @@
   alt="Profile Views"
 />
 
-- 🌱 I'm currently working as a **Devops Engineer**
+- 🌱 I'm currently working as a **Java Software Engineer**
 - 👨🏿‍💻All of my projects are available at [www.pranishtuladhar.com.np](www.pranishtuladhar.com.np)
 - 📫 How to reach me **pranishtuladhar9@gmail.com**
 
